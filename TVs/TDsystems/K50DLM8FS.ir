@@ -4,97 +4,97 @@ Version: 1
 # SMART TV
 # Remote for the K50DLM8FS model
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NEC
 address: 08 00 00 00
 command: 05 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NEC
 address: 08 00 00 00
 command: 0B 00 00 00
 #
-name: HOME
+name: Home
 type: parsed
 protocol: NEC
 address: 08 00 00 00
 command: 4E 00 00 00
 # 
-name: VOL+
+name: Vol_up
 type: parsed
 protocol: NEC
 address: 08 00 00 00
 command: 00 00 00 00
 # 
-name: CH+
+name: Ch_next
 type: parsed
 protocol: NEC
 address: 08 00 00 00
 command: 02 00 00 00
 # 
-name: VOL-
+name: Vol_dn
 type: parsed
 protocol: NEC
 address: 08 00 00 00
 command: 01 00 00 00
 # 
-name: CH-
+name: Ch_prev
 type: parsed
 protocol: NEC
 address: 08 00 00 00
 command: 03 00 00 00
 # 
-name: UP
+name: Up
 type: parsed
 protocol: NEC
 address: 08 00 00 00
 command: 06 00 00 00
 # 
-name: LEFT
+name: Left
 type: parsed
 protocol: NEC
 address: 08 00 00 00
 command: 41 00 00 00
 # 
-name: DOWN
+name: Down
 type: parsed
 protocol: NEC
 address: 08 00 00 00
 command: 07 00 00 00
 # 
-name: RIGHT
+name: Right
 type: parsed
 protocol: NEC
 address: 08 00 00 00
 command: 43 00 00 00
 # 
-name: SOURCE
+name: Src
 type: parsed
 protocol: NEC
 address: 08 00 00 00
 command: 40 00 00 00
 # 
-name: EXIT
+name: Ext
 type: parsed
 protocol: NEC
 address: 08 00 00 00
 command: 1F 00 00 00
 # 
-name: MENU
+name: Menu
 type: parsed
 protocol: NEC
 address: 08 00 00 00
 command: 1E 00 00 00
 # 
-name: OK
+name: Ok
 type: parsed
 protocol: NEC
 address: 08 00 00 00
 command: 42 00 00 00
 # 
-name: INFO
+name: Info
 type: parsed
 protocol: NEC
 address: 08 00 00 00
